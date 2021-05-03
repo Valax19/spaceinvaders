@@ -1,4 +1,4 @@
-# spaceinvaders
+# Space Invaders
 
 ## Semaine 2 : Du 26 Avril au 2 Mai ##
   
