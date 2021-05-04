@@ -28,7 +28,7 @@
 
 
 ### Nuages de mots 
-
+![Nuage de mots de la semaine 2](./Images/NuageDeMots.png)
 
 ### Difficultés rencontré 
 Aucune 
