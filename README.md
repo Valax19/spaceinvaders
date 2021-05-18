@@ -63,8 +63,14 @@ Aucune
   ### Nuages de mots 
 ![Nuage de mots de la semaine 2](./Images/NuageDeMots2.png)   
         
+  ### Difficultés rencontré 
+Aucune 
+
+### Glossaire 
+
+* **Vaisseau** :  véhicule commandé par le joueur, pouvant se déplacer de droite à gauche et ayant la possibilité de lancer des missiles destinés à détruire le(s) envahisseurs.
         
-        
+* **Missile** :  projectile envoyé à la verticale par le vaisseau vers l'envahisseur dans le but de le détruire.
         
         
         
