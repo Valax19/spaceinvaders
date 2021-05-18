@@ -57,8 +57,11 @@ Aucune
    - Story 1 : Positionner un nouveau vaisseau avec une dimension donnée : 
         Le vaisseau n'a plus une dimension de 1 par 1 mais maintenant de 3 par 2 afin d'avoir un rendus plus réaliste (un vaisseau qui fait la même taille qu'un missile n'est pas tout à fait réaliste) 
         
-        
-        
+   ### Diagramme de classes 
+![Diagrammes de classes de la semaine 2](./Images/Diagramme_classe_2.PNG)
+ 
+  ### Nuages de mots 
+![Nuage de mots de la semaine 2](./Images/NuageDeMots2.png)   
         
         
         
