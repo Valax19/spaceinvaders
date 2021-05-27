@@ -72,6 +72,41 @@ Aucune
         
 * **Missile** :  projectile envoyé à la verticale par le vaisseau vers l'envahisseur dans le but de le détruire.
         
+ 
+
+## Semaine 4 : Du 17 Mai au 21 Mai ##
+
+### Sprints et fonctionnalités réalisées 
+
+ #### Fonctionalité 2 : Dimensionner le vaiseau : 
+ 
+  - Story 1 : Positionner un nouveau vaisseau avec une dimension donnée : 
+        Le vaisseau n'a plus une dimension de 1 par 1 mais maintenant de 3 par 2 afin d'avoir un rendus plus réaliste (un vaisseau qui fait la même taille qu'un missile n'est pas tout à fait réaliste). 
         
+  - Story 2 : Faire en sorte qu'il soit impossible de positionner un nouveau vaisseau qui déborde de l'espace de jeu : 
+        Maintenant que notre vaisseau à une dimension, il ne faut pas seulement que les coordonnées de notre vaissseau soit en dehors de l'espace de jeu pour qu'il soit en dehors, nous allons donc vérifier si une partie du vaisseau ne soit extétrieure à l'espace de jeu. 
         
+  - Story 3 : Déplacer un vaisseau vers la droite en tenant compte de sa dimension : 
+        Vu que notre vaisseau à mainteant une dimension, il faut le déplacer vers la droite en tenant compte qu'il est sur plusieurs positions en même temps.
+        Si une partie du vaisseau est au bord, le vaisseau ne doit donc ne pas se déplacer (il doit rester immobile).  
         
+  - Story 4 : Déplacer un vaisseau vers la gauche en tenant compte de sa dimension : 
+        Vu que notre vaisseau à mainteant une dimension, il faut le déplacer vers la gauche en tenant compte qu'il est sur plusieurs positions en même temps.        
+        Si une partie du vaisseau est au bord, le vaisseau ne doit donc ne pas se déplacer (il doit rester immobile).
+        
+  ### Diagramme de classes 
+![Diagrammes de classes de la semaine 2](./Images/Diagramme_classe_3.PNG)
+
+
+
+### Nuages de mots 
+![Nuage de mots de la semaine 2](./Images/NuageDeMots3.png)
+
+ ### Difficultés rencontré 
+Petit problème sur une méthode toString que j'avais oublié de mettre mais sinon aucun problème
+
+### Glossaire 
+
+* **Vaisseau** :  véhicule commandé par le joueur, pouvant se déplacer de droite à gauche et ayant la possibilité de lancer des missiles destinés à détruire le(s) envahisseurs.
+        
+* **Missile** :  projectile envoyé à la verticale par le vaisseau vers l'envahisseur dans le but de le détruire.
